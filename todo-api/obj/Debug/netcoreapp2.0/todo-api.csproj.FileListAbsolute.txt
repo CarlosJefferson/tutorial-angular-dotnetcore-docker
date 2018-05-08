@@ -1,0 +1,10 @@
+/Users/carlosjs/Documents/projects/tutoriais/TodoApp/todo-api/bin/Debug/netcoreapp2.0/todo-api.deps.json
+/Users/carlosjs/Documents/projects/tutoriais/TodoApp/todo-api/bin/Debug/netcoreapp2.0/todo-api.runtimeconfig.json
+/Users/carlosjs/Documents/projects/tutoriais/TodoApp/todo-api/bin/Debug/netcoreapp2.0/todo-api.runtimeconfig.dev.json
+/Users/carlosjs/Documents/projects/tutoriais/TodoApp/todo-api/bin/Debug/netcoreapp2.0/todo-api.dll
+/Users/carlosjs/Documents/projects/tutoriais/TodoApp/todo-api/bin/Debug/netcoreapp2.0/todo-api.pdb
+/Users/carlosjs/Documents/projects/tutoriais/TodoApp/todo-api/obj/Debug/netcoreapp2.0/todo-api.csproj.CoreCompileInputs.cache
+/Users/carlosjs/Documents/projects/tutoriais/TodoApp/todo-api/obj/Debug/netcoreapp2.0/todo-api.AssemblyInfoInputs.cache
+/Users/carlosjs/Documents/projects/tutoriais/TodoApp/todo-api/obj/Debug/netcoreapp2.0/todo-api.AssemblyInfo.cs
+/Users/carlosjs/Documents/projects/tutoriais/TodoApp/todo-api/obj/Debug/netcoreapp2.0/todo-api.dll
+/Users/carlosjs/Documents/projects/tutoriais/TodoApp/todo-api/obj/Debug/netcoreapp2.0/todo-api.pdb
